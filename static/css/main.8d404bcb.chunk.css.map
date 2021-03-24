@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,0BACE,YAAa,CACb,UAAW,CACX,gBACF","file":"main.8d404bcb.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.alice-carousel ul li img{\n  height: 400px;\n  width: 100%;\n  object-fit: cover;\n}"]}

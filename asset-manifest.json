@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://teckoketso.github.io/csb-mwrzi/static/css/main.8d404bcb.chunk.css",
+    "main.js": "https://teckoketso.github.io/csb-mwrzi/static/js/main.b2806a03.chunk.js",
+    "main.js.map": "https://teckoketso.github.io/csb-mwrzi/static/js/main.b2806a03.chunk.js.map",
+    "runtime-main.js": "https://teckoketso.github.io/csb-mwrzi/static/js/runtime-main.b5e4e58f.js",
+    "runtime-main.js.map": "https://teckoketso.github.io/csb-mwrzi/static/js/runtime-main.b5e4e58f.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://teckoketso.github.io/csb-mwrzi/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.f0404fdb.chunk.js": "https://teckoketso.github.io/csb-mwrzi/static/js/2.f0404fdb.chunk.js",
+    "static/js/2.f0404fdb.chunk.js.map": "https://teckoketso.github.io/csb-mwrzi/static/js/2.f0404fdb.chunk.js.map",
+    "index.html": "https://teckoketso.github.io/csb-mwrzi/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://teckoketso.github.io/csb-mwrzi/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.8d404bcb.chunk.css.map": "https://teckoketso.github.io/csb-mwrzi/static/css/main.8d404bcb.chunk.css.map",
+    "static/js/2.f0404fdb.chunk.js.LICENSE.txt": "https://teckoketso.github.io/csb-mwrzi/static/js/2.f0404fdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5e4e58f.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.f0404fdb.chunk.js",
+    "static/css/main.8d404bcb.chunk.css",
+    "static/js/main.b2806a03.chunk.js"
+  ]
+}
